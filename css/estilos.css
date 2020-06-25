@@ -19,7 +19,7 @@ body {
 header {
     width: 100%;
     height: 50px;
-    background: #1a5adc;
+    background: #115eb9;
     color: #f6fc36;
     
     position: fixed;
@@ -52,17 +52,18 @@ header .contenedor {
 
 section {
     width: 100%;
-    margin-bottom:1px;
+    margin-bottom:5px;
 }
 
 footer .contenedor {
+    background-color: #1465c4;
     color: #fff;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 footer .contenedor1 {
-    background-image: url("https://cryptovest.com/storage/upload/images/posts/3004/cat/Blockchain%20technology%20futuristic%20(1).png");
+    
     color: #333;
     display: flex;
     flex-wrap: wrap;
