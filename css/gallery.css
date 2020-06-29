@@ -1,0 +1,21 @@
+div.gallery {
+    margin: 1px;
+    border: 5px solid #ccc;
+    float: left;
+    width: 180px;
+    height:auto;    
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 198%;
+  height: auto;
+}
+
+div.desc {
+  
+  text-align: center;
+}
